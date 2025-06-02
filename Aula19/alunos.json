@@ -1,0 +1,14 @@
+[
+{
+    "nome" : "Will",
+    "nota1Bim" : 10,
+    "nota2Bim" : 9.5,
+    "aprovado" : true
+},
+{
+    "nome" : "Leocadio",
+    "nota1Bim" : 8.5,
+    "nota2Bim" : 9.5,
+    "aprovado" : true
+}
+]
